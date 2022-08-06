@@ -20,4 +20,4 @@ author: admin
 
 🐈 Hey! I'm **LeeShe**, a student from SYSU.
 
-Check out my [CV](/about/) and blog posts below 🌈
+
